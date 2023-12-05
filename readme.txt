@@ -1,6 +1,6 @@
 Put the entire FILES folder in the bin. Otherwise no records will be saved : D
 
-Path: TurboC++ -> Disk -> TurboC3 -> Paste here
+Path: TurboC++ -> Disk -> TurboC3 -> Past here
 
 In case if code does not execute. then please check what version of Turboc++ are you using. If that is not TURBOC3 then follow these steps:
 
